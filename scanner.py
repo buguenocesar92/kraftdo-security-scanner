@@ -9,7 +9,7 @@ GITLEAKS  = os.getenv("GITLEAKS_PATH", "gitleaks")
 
 REPOS = [
     "kraftdo-nfc-app", "kraftdo-cms", "kraftdo_handoff", "kraftdo_meme",
-    "screenshots-bot", "chile-tv", "kraftdo-base", "KraftDo_Sistema_v18_completo",
+    "screenshots-bot", "chile-tv", "kraftdo-base", "sistema-universal",
     "investigador", "KraftDo_Funko", "kraftdo-wp-studio", "buguenocesar92", "tools",
 ]
 
